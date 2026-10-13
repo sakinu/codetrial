@@ -1,0 +1,28 @@
+tests/browser/turn-taking.test.js
+  s_069edf99b781c4::t_7abf66623852ed 72-74,82-85,308-317,325,366
+  s_069edf99b781c4::t_8bbc0922a8c89d 28-48,318-324,326-327,329-343,349-357,359-365,367-368
+web/styles.css
+  s_069edf99b781c4::t_2c51ba6146fdac 658-663
+  s_069edf99b781c4::t_e8de70911c267d 648-649,664-671
+web/interview.html
+  s_069edf99b781c4::t_2c51ba6146fdac 596-602
+  s_069edf99b781c4::t_2d69d4b00fac03 64,594-595,603-604
+web/interview.js
+  s_069edf99b781c4::t_1098ad08ca8ad4 2462
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ca36aa48090c23809f487a5f5129d3afd74c3aa5",
+  "prompts": {},
+  "sessions": {
+    "s_069edf99b781c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2e60cc5-7b2f-4216-9c19-3302530243d8",
+        "model": "claude-opus-5"
+      },
+      "human_author": "sakinu <sakinu080712345@gmail.com>"
+    }
+  }
+}
