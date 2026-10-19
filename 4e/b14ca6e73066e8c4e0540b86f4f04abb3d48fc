@@ -1,0 +1,30 @@
+web/interview.html
+  s_069edf99b781c4::t_2d69d4b00fac03 773-774,782-783
+  s_069edf99b781c4::t_2c51ba6146fdac 775-781
+tests/browser/turn-row-layout.test.js
+  s_069edf99b781c4::t_7753e84b0330ff 1-144
+web/styles.css
+  s_069edf99b781c4::t_2c51ba6146fdac 925-930
+  s_069edf99b781c4::t_e8de70911c267d 910-911,931-938
+tests/browser/turn-taking.test.js
+  s_069edf99b781c4::t_8bbc0922a8c89d 29-49,398-404,406-407,409-423,429-437,439-445,447-448
+  s_069edf99b781c4::t_7abf66623852ed 73-75,83-86,388-397,405,446
+web/interview.js
+  s_069edf99b781c4::t_1098ad08ca8ad4 2716
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4eb14ca6e73066e8c4e0540b86f4f04abb3d48fc",
+  "prompts": {},
+  "sessions": {
+    "s_069edf99b781c4": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e2e60cc5-7b2f-4216-9c19-3302530243d8",
+        "model": "claude-opus-5"
+      },
+      "human_author": null
+    }
+  }
+}
