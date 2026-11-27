@@ -1,0 +1,30 @@
+problem-bank/judges.json
+  s_0fb73b5144f099::t_1ca090f363ffa9 14660-14668
+  s_0fb73b5144f099::t_39402a745690c9 14669-14695
+tests/browser/compiler-explorer.test.js
+  s_0fb73b5144f099::t_b9be9b5b9ddf02 1674-1676,1692,1707-1755,1777-1796,1802
+  s_0fb73b5144f099::t_1ca090f363ffa9 1673,1677-1691,1693-1706,1756-1771,1797-1801,1803-1804
+  s_0fb73b5144f099::t_9c868890c72483 1772-1776
+  s_0fb73b5144f099::t_439a499abfedec 1805-1806
+tests/golden/task-posed.json
+  s_0fb73b5144f099::t_c2e70651fe7574 57
+web/judges/shared-buffer-keystroke-audit.json
+  s_0fb73b5144f099::t_1f6e7855531981 59-85
+  s_0fb73b5144f099::t_1ca090f363ffa9 50-58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c82dd31ad8f023c1aaa5f3cfe41a605d34ff8fdc",
+  "prompts": {},
+  "sessions": {
+    "s_0fb73b5144f099": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "13627cb0-a52e-40af-be68-9e38013a894e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": null
+    }
+  }
+}
