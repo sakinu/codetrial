@@ -1,0 +1,27 @@
+tests/browser/compiler-explorer.test.js
+  s_0fb73b5144f099::t_a66f6141b9e72f 1693-1697,1706-1726
+  s_0fb73b5144f099::t_4e39c5e1addf89 1698-1703,1727-1730
+  s_0fb73b5144f099::t_2e874f3bb1f182 1673-1692,1704-1705,1731-1777
+web/judges/shared-buffer-keystroke-audit.json
+  s_0fb73b5144f099::t_65047b3f0e5bba 50-85
+problem-bank/judges.json
+  s_0fb73b5144f099::t_e46dd85ba192b5 14660-14695
+tests/golden/task-posed.json
+  s_0fb73b5144f099::t_addf22ef7f6a74 57
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0e5820022e2815869e43a52e7bb8ef162a09c97a",
+  "prompts": {},
+  "sessions": {
+    "s_0fb73b5144f099": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "13627cb0-a52e-40af-be68-9e38013a894e",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "sakinu <sakinu080712345@gmail.com>"
+    }
+  }
+}
