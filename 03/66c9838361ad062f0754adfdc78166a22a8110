@@ -1,0 +1,29 @@
+tests/unit/tasks/defense/attempt.rs
+  s_3bdb666b07b372::t_f6021389fdfea0 142-143
+  s_995961c01623b0::t_4aeeb65e8b8d65 141
+  s_995961c01623b0::t_76a26abd2e762c 147
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "0366c9838361ad062f0754adfdc78166a22a8110",
+  "prompts": {},
+  "sessions": {
+    "s_3bdb666b07b372": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "98f166c5-9650-46d9-b0f3-e524e72f07b3",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": null
+    },
+    "s_995961c01623b0": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "9c3a0e31-09bd-492e-ae83-bd54eb621675",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": null
+    }
+  }
+}
